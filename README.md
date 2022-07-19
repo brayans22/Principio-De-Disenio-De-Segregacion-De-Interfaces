@@ -1,6 +1,4 @@
-# Principio-De-Disenio-De-Segregacion-De-Interfaces
-
-# Principio-De-Disenio-Unica-Responsabilidad-SOLID-
+# Principio-De-Disenio-De-Segregacion-De-Interfaces SOLID
 
 -> CONCEPTO: Lo que busca este principio es tener las interfaces con la minima cantidad de metodos posibles, para que quien las implemente
              No se vea forzado a implementar metodos que no necesite.
